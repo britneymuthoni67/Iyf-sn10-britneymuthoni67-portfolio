@@ -31,3 +31,13 @@ footer {
   color: white;
   margin-top: 40px;
 }
+@media (max-width: 600px) {
+  nav a {
+    display: block;
+    margin: 10px 0;
+  }
+
+.container {
+  padding: 10px;
+}
+}
